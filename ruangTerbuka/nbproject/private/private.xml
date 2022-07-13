@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/about.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/bookListMember.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/Registration.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/login.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/src/java/Bean/Buku.java</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/partner.css</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/log.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/stafMenu.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/src/java/DAO/BukuDao.java</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/src/java/myUtil/ConnectionDB.java</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/partner.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/loginForm.css</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/css.css</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/stafLog.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/src/java/myServlet/ServletCRUD.java</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/listBuku.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/regis.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/buku.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/course.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/buku.css</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/stafLogin.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/welcome.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/success.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/index.jsp</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/coursecss.css</file>
+            <file>file:/C:/Users/miqba/Documents/NetBeansProjects/ruangTerbuka/web/edit.jsp</file>
+        </group>
+    </open-files>
+</project-private>
